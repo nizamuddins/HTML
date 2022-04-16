@@ -1,0 +1,67 @@
+body{
+  font-family: 'Montserrat'
+}
+#title{
+  background-color: rgb(255, 76, 104);
+}
+
+.fluid{
+position: relative;
+padding: 3% 15% 7%;
+
+}
+
+.navbar-brand{
+
+font-size: 3rem;
+font-family: 'Ubuntu',sans-serif;
+font-weight: bold;
+}
+
+.nav-item{
+font-size: 1.5rem;
+padding: 0px 20px;
+font-family: 'Poppins',sans-serif;
+font-weight: bold;
+
+}
+h1{
+font-family: 'Poppins',sans-serif;
+font-weight: bold;
+color: #fff;
+line-height: 1.5;
+font-size: 4.4rem;
+
+}
+
+
+img{
+
+width: 60%;
+transform: rotate(25deg);
+position: relative;
+left: 90px;
+
+}
+
+nav{
+
+margin-bottom: 100px
+
+}
+
+.brand{
+  padding: 0px;
+}
+
+.download1{
+padding:8px 16px;
+font-size: 1.7rem;
+margin:5% 3% 5% 0%;
+}
+
+.download2{
+padding:8px 16px;
+font-size: 1.7rem;
+margin: 5% 3% 5% 0%;
+}
